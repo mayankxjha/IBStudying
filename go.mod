@@ -1,4 +1,4 @@
-module nyan/ibs
+module github.com/mayankxjha/ibs
 
 go 1.24.0
 
