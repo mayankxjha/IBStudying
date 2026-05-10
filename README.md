@@ -1,3 +1,4 @@
-# Study=app
-## Functions
-- One
+# go-study-app
+
+## functions
+- Pomodoro Clock
