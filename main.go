@@ -1,6 +1,6 @@
 package main
 
-import ibs "nyan/ibs/cmd"
+import ibs "github.com/mayankxjha/ibs/cmd"
 
 func main() {
 	ibs.Execute()
